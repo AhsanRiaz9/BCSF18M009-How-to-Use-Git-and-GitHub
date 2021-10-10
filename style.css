@@ -24,3 +24,13 @@ th, td{
     width: 150px;
     text-align: center;
 }
+
+h3{
+  text-align: center;
+  font-size: 35px;  
+}
+p{
+    text-align: center;
+    font-size: 22px;
+}
+
